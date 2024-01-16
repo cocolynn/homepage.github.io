@@ -21,7 +21,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-  
+# 📖 教育经历
+- *09/2025-07/2026*, 爱尔兰高威大学, 计算机科学与技术
+  核心课程: 数据分析编程、网络和网络科学、数据可视化、数据分析案例研究
+- *07/2022-08/2026(预期)*, 南京农业大学, 工商管理 (兼读制)
+  核心课程: 现代项目管理、数据建模和与决策制定、财务管理、企业商业战略、财务理论与实践实务
+- *10/2019-12/2024 (预期)*, 南京航空航天大学, 软件工程（全日制）
+  核心课程：离散数学，C++编程，Java编程，计算机系统架构，软件工程，操作系统
+- *10/2019-12/2024 (预期)*, 南京航空航天大学, 计算机科学与技术
+  核心课程：高等数学，离散数学，C++编程，计算机网络，计算机系统架构，数据结构，软件工程，操作系统
+- *09/2018-07/2023*, 南通师范高等专科学校, 计算机应用与技术
+  核心课程：Java编程，C编程，动态网页设计，数据库应用开发
+    
 # ⭐ 出版物
 - &ensp;(2023). 《汽车行业数智化营销及运营模式研究》上海商业 ISSN1007-2845 中国知网 收录检索。
 - &ensp;(2023). 《Deciphering Modern Customer Loyalty： A Machine Learning Approach》 第三届物联网与机器学习国际学术会议（IoTML 2023）EI Compendex，Scopus收录检索。 Doi：10.1117/12.3016467.
@@ -145,14 +156,4 @@ My research interest includes neural machine translation and computer vision. I 
 - *12/2020* 第十一届江苏省“挑战杯”大学生创业计划竞赛铜奖
 - *11/2020* 第十一届“蓝桥杯”C/C++程序设计大赛本科组 国家三等奖、省一等奖
   
-# 📖 教育经历
-- *09/2025-07/2026*, 爱尔兰高威大学, 计算机科学与技术
-  核心课程: 数据分析编程、网络和网络科学、数据可视化、数据分析案例研究
-- *07/2022-08/2026(预期)*, 南京农业大学, 工商管理 (兼读制)
-  核心课程: 现代项目管理、数据建模和与决策制定、财务管理、企业商业战略、财务理论与实践实务
-- *10/2019-12/2024 (预期)*, 南京航空航天大学, 软件工程（全日制）
-  核心课程：离散数学，C++编程，Java编程，计算机系统架构，软件工程，操作系统
-- *10/2019-12/2024 (预期)*, 南京航空航天大学, 计算机科学与技术
-  核心课程：高等数学，离散数学，C++编程，计算机网络，计算机系统架构，数据结构，软件工程，操作系统
-- *09/2018-07/2023*, 南通师范高等专科学校, 计算机应用与技术
-  核心课程：Java编程，C编程，动态网页设计，数据库应用开发
+

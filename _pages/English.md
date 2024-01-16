@@ -1,3 +1,4 @@
+[中文文档](./about.md)
 # 🎓Education
 
 - **University of Galway, Ireland**
